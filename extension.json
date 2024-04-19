@@ -1,0 +1,7 @@
+{
+  "name": "LC3-Assembly Syntax",
+  "version": "0.0.1",
+  "authors": ["Adrian Brady"],
+  "description": "Generic Syntax Highlighting for LC-3 Assembly",
+  "repository": "https://github.com/DauntingPear/zed-lc3asm"
+}

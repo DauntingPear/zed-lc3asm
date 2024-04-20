@@ -1,0 +1,4 @@
+name = "lc3asm"
+grammar = "lc3asm"
+path_suffixes = ["asm"]
+line_comments = [";"]

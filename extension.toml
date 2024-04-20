@@ -1,0 +1,11 @@
+id = "lc3asm"
+name = "LC3 Assembly"
+description = "Simple LC3 TS grammar extension for Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Adrian Brady"]
+repository = "https://github.com/DauntingPear/zed-lc3asm"
+
+[grammars.lc3asm]
+repository = "https://github.com/DauntingPear/tree-sitter-lc3asm"
+commit = "6c00daa68502a7d30d59c093cd8fc23b9ebb0060"

@@ -1,4 +1,0 @@
-name = "Assembly"
-grammar = "asm"
-path_suffixes = ["asm"]
-line_comments = ["; "]

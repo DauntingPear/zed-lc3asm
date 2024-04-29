@@ -8,4 +8,4 @@ repository = "https://github.com/DauntingPear/zed-lc3asm"
 
 [grammars.lc3asm]
 repository = "https://github.com/DauntingPear/tree-sitter-lc3asm"
-commit = "a8586e407f4e2984b77909fdcfe2adf9724422ee"
+commit = "d264ebf319b88f6078334b7c8324b728a199f4f7"
